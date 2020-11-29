@@ -30,8 +30,8 @@ $ docker-compose up -d
 
 ## Stay in touch
 
-- Author - [https://www.linkedin.com/in/jefferson-coelho/]
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - https://www.linkedin.com/in/jefferson-coelho/
+- Website - https://github.com/BioJJ
+- Twitter - https://twitter.com/bio_jefferson
 
  
