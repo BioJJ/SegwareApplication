@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+  api:
+    image: biojj/apiposts:apiposts
+    container_name: apiposts
+    restart: always
+    ports: 
+      - "8080:8080"
+  web:
+    image: biojj/webposts:webposts
+    container_name: webposts 
+    restart: always
+    ports: 
+      - "3000:3000"
+    depends_on: 
+      - api
+        
