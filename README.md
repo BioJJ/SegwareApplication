@@ -29,8 +29,8 @@ $ docker-compose up -d
 ## Technologies used
 The technologies or tools listed below figure between the most relevant on the development of this project:
 
-Docker version 19.03.12
-Docker-compose version 1.27.4
+- Docker version 19.03.12
+- Docker-compose version 1.27.4
 
 
 FRONTEND
